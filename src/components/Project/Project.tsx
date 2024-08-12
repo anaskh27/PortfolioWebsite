@@ -35,7 +35,7 @@ export function Project() {
                   <img src={githubIcon} alt="Visit site" />{" "}
                 </a>
                 <a
-                  href="https://crypto-dashboard-001-8i4hscoyt-ess1.vercel.app/"
+                  href="crypto-dashboard-ess1.vercel.app"
                   target="_blank"
                   rel="noreferrer"
                 >
